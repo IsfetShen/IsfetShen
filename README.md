@@ -1,13 +1,13 @@
 Olá, meu nome é Wilson M. Müller
-
+##
 - 🔭 Estou trabalhando com front-end e back-end;
 - 🌱 Estudo html, css e javascript
--Estudande
+- 📖 Cursando o ensino médio
 
-<div>
+<div align="center">
   <a href="https://github.com/IsfetShen">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsfetShen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isfetshen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isfetshen&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
