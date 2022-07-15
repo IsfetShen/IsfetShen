@@ -1,8 +1,8 @@
 Olá, meu nome é Wilson M. Müller
 ##
-- 🔭 Estou trabalhando com front-end e back-end;
-- 🌱 Estudo html, css e javascript
-- 📖 Cursando o ensino médio
+- 🔭 Becoming a programmer;
+- 🌱 I study html, css, javascript and have experience with python
+- 📖 Attending high school
 
 <div align="center">
   <a href="https://github.com/IsfetShen">
