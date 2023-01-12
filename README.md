@@ -5,6 +5,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
+     <a href="https://wakatime.com/@02e03940-943c-4671-9eeb-11e081ae8380"><img src="https://wakatime.com/badge/user/02e03940-943c-4671-9eeb-11e081ae8380.svg" alt="Total time coded since Aug 8 2022" /></a>
     <img align="center" alt="Isfet-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Isfet-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
