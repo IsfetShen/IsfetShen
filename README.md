@@ -1,8 +1,12 @@
 # Hello, I'm Wilson M. Müller
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=IsfetShen"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsfetShen&show_icons=true&include_all_commits=true&count_private=true&title_color=00e7ff&icon_color=00e7ff&text_color=9f9f9f&bg_color=000"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&langs_count=10&layout=compact&title_color=00e7ff&text_color=00e7ff&bg_color=000"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=IsfetShen"><img height="120em" src="https://github-readme-stats.vercel.app/api?username=IsfetShen&show_icons=true&include_all_commits=true&count_private=true&title_color=00e7ff&icon_color=00e7ff&text_color=9f9f9f&bg_color=000"/>
+    
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&langs_count=10&layout=compact&title_color=00e7ff&text_color=00e7ff&bg_color=000"/>
+    
+  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=IsfetShen&theme=black-ice&mode=weekly&background=000000">
 </div>
+ 
 <div style="display: inline_block"><br>
   <a href="https://wakatime.com/@02e03940-943c-4671-9eeb-11e081ae8380"><img src="https://wakatime.com/badge/user/02e03940-943c-4671-9eeb-11e081ae8380.svg" alt="Total time coded since Aug 8 2022"/>
   </a>
