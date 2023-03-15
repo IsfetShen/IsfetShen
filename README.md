@@ -13,7 +13,7 @@
     <img align="center" alt="Isfet-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Isfet-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Isfet-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Isfet-CSS" height="40" width="30"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png">
+    <img align="center" alt="Isfet-CSS" height="40" width="30"src="https://cdn.graphacademy.neo4j.com/assets/img/courses/badges/app-nodejs.svg">
 </div>
 
 ##
