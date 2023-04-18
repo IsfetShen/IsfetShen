@@ -28,4 +28,4 @@
 </div>
 
 #
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsfetShen&repo=wilsodev.bio&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsfetShen&repo=wilso.io&theme=midnight-purple">
