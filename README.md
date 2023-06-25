@@ -1,7 +1,6 @@
 ## Hello! I'm Wilson M. Müller
 
-- I search for open source projects
-- I'm a  freelancer and self-taught passionate FrontEnd developer from Brazil 𝐵𝑅
+- I'm a  freelancer and self-taught passionate developer from Brazil 𝐵𝑅
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&theme=github_dark">
