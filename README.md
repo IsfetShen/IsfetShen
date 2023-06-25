@@ -3,7 +3,7 @@
 - I'm a  freelancer and self-taught passionate developer from Brazil 𝐵𝑅
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&theme=github_dark&&langs_count=4">
 </div>
 
 
