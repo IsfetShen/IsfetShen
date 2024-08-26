@@ -1,9 +1,11 @@
 ## Hello! I'm Wilson M. Müller
 
-- I'm a  freelancer and self-taught passionate developer from Brazil 𝐵𝑅
+- Front-end 
+- Brazil
+- Investments
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&theme=github_dark&&langs_count=4">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsfetShen&theme=github_dark&&langs_count=4">
 </div>
 
 
@@ -14,12 +16,4 @@
    <code><img height="30" width="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
   <code><img height="30" width="40" alt="html5"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img height="30" width="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-</div>
-  
-#
-<div>
-  <a href="https://linktr.ee/wilso_muller">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-  <a href="https://discord.gg/8NPhGt7S">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
